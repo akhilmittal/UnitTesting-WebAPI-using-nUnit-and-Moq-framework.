@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="3E6C6F09-6206-4100-A2CF-C265625BDBD9" ModuleId="WebApi" />
+  <Module PersistentId="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3" ModuleId="BusinessServices" />
+  <Module PersistentId="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9" ModuleId="DataModel" />
+  <Module PersistentId="5BA9654C-E5D5-4704-9E2C-6C2487B0B087" ModuleId="BusinessEntities" />
+  <Module PersistentId="6CFC3977-2553-4C4E-A212-01F11C3F7543" ModuleId="Resolver" />
+  <Module PersistentId="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B" ModuleId="BusinessServices.Tests" />
+  <Module PersistentId="0A86FF49-D966-4FEF-A451-C27EEDE37065" ModuleId="ApiController.Tests" />
+  <Module PersistentId="E26FB3C9-831A-44DE-ABDB-09CBD4A5A071" ModuleId="TestsHelper" />
+</Modules>

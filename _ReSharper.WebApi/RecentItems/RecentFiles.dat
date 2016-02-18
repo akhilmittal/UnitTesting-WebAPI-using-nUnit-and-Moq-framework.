@@ -1,0 +1,53 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/f:Token.cs" caret="543" fromTop="14" />
+    <File id="5BA9654C-E5D5-4704-9E2C-6C2487B0B087/f:ProductEntity.cs" caret="0" fromTop="0" />
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/f:Product.cs" caret="543" fromTop="14" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:App_Start/f:WebApiConfig.cs" caret="0" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/f:Global.asax.cs" caret="1606" fromTop="25" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:ErrorHelper/f:ApiDataException.cs" caret="285" fromTop="9" />
+    <File id="E26FB3C9-831A-44DE-ABDB-09CBD4A5A071/f:ObjectComparer.cs" caret="827" fromTop="16" />
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/d:UnitOfWork/f:IUnitOfWork.cs" caret="94" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:Filters/f:ApiAuthenticationFilter.cs" caret="0" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:App_Start/f:FilterConfig.cs" caret="0" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/f:Web.config" caret="659" fromTop="11" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:ActionFilters/f:LoggingFilterAttribute.cs" caret="0" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:ActionFilters/f:GlobalExceptionAttribute.cs" caret="0" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:ActionFilters/f:AuthorizationRequiredAttribute.cs" caret="0" fromTop="0" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:Controllers/f:AuthenticateController.cs" caret="0" fromTop="0" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:IUserServices.cs" caret="88" fromTop="5" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:IProductServices.cs" caret="234" fromTop="10" />
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/d:GenericRepository/f:GenericRepository.cs" caret="3900" fromTop="16" />
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/d:UnitOfWork/f:UnitOfWork.cs" caret="0" fromTop="0" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:UserServices.cs" caret="456" fromTop="3" />
+    <File id="E26FB3C9-831A-44DE-ABDB-09CBD4A5A071/f:DataInitializer.cs" caret="2195" fromTop="1" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:Controllers/f:ProductController.cs" caret="1675" fromTop="20" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:ProductServices.cs" caret="1413" fromTop="8" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:TokenServices.cs" caret="2063" fromTop="57" />
+    <File id="0A86FF49-D966-4FEF-A451-C27EEDE37065/f:App.config" caret="898" fromTop="9" />
+    <File id="0A86FF49-D966-4FEF-A451-C27EEDE37065/f:ProductControllerTest.cs" caret="1254" fromTop="15" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:ProductServicesTest.cs" caret="740" fromTop="19" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:App.config" caret="899" fromTop="9" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:UserServicesTest.cs" caret="1067" fromTop="27" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:TokenServicesTest.cs" caret="370" fromTop="16" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/d:Controllers/f:ProductController.cs" caret="273" fromTop="5" />
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/d:UnitOfWork/f:IUnitOfWork.cs" caret="293" fromTop="9" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:ProductServices.cs" caret="531" fromTop="15" />
+    <File id="3E6C6F09-6206-4100-A2CF-C265625BDBD9/f:Bootstrapper.cs" caret="1189" fromTop="23" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:packages.config" caret="252" fromTop="3" />
+    <File id="E26FB3C9-831A-44DE-ABDB-09CBD4A5A071/f:ObjectComparer.cs" caret="1784" fromTop="35" />
+    <File id="E26FB3C9-831A-44DE-ABDB-09CBD4A5A071/f:ProductComparer.cs" caret="110" fromTop="5" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:TokenServices.cs" caret="2449" fromTop="7" />
+    <File id="E26FB3C9-831A-44DE-ABDB-09CBD4A5A071/f:DataInitializer.cs" caret="2282" fromTop="19" />
+    <File id="B06E2E77-903F-4443-83C5-FAAF9C1E3CA3/f:UserServices.cs" caret="834" fromTop="12" />
+    <File id="BEA5B812-5ECC-4938-9B69-1DA9C7F281D9/d:GenericRepository/f:GenericRepository.cs" caret="3900" fromTop="16" />
+    <File id="0A86FF49-D966-4FEF-A451-C27EEDE37065/f:ProductControllerTest.cs" caret="1232" fromTop="15" />
+    <File id="0A86FF49-D966-4FEF-A451-C27EEDE37065/f:App.config" caret="898" fromTop="9" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:ProductServicesTest.cs" caret="740" fromTop="19" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:App.config" caret="899" fromTop="9" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:TokenServicesTest.cs" caret="5889" fromTop="16" />
+    <File id="C632697F-E8A2-4BEE-95B9-5CB2A6ACB07B/f:UserServicesTest.cs" caret="50" fromTop="2" />
+  </RecentEdits>
+</RecentFiles>
