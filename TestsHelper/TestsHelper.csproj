@@ -37,11 +37,6 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataInitializer.cs" />
@@ -50,14 +45,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessEntities\BusinessEntities.csproj">
-      <Project>{5BA9654C-E5D5-4704-9E2C-6C2487B0B087}</Project>
-      <Name>BusinessEntities</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\BusinessServices\BusinessServices.csproj">
-      <Project>{B06E2E77-903F-4443-83C5-FAAF9C1E3CA3}</Project>
-      <Name>BusinessServices</Name>
-    </ProjectReference>
     <ProjectReference Include="..\DataModel\DataModel.csproj">
       <Project>{BEA5B812-5ECC-4938-9B69-1DA9C7F281D9}</Project>
       <Name>DataModel</Name>

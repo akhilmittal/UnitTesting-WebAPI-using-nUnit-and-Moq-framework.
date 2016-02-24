@@ -70,13 +70,13 @@ namespace BusinessServices.Tests
             // Setup mocking behavior
             mockRepo.Setup(p => p.GetAll()).Returns(_users);
 
-            //mockRepo.Setup(s => s.Get(It.IsAny<Expression<Func<User, bool>>>()))
+            //mockRepo.Setup(s => s.Get(It.IsAny<Func<User, bool>>()))
             //    .Returns(
             //        (Func<User, bool> expr) =>
             //        DataInitializer.GetAllUsers().Where(u => u.UserName == CorrectUserName).FirstOrDefault(
             //            u => u.Password == CorrectPassword));
 
-            //mockRepo.Setup(s => s.Get(It.IsAny<Expression<Func<User, bool>>>()))
+            //mockRepo.Setup(s => s.Get(It.IsAny<Func<User, bool>>()))
             //   .Returns(
             //       (Func<User, bool> expr) =>
             //       DataInitializer.GetAllUsers().Where(u => u.UserName == WrongUserName).FirstOrDefault(
@@ -140,8 +140,8 @@ namespace BusinessServices.Tests
         //[Test]
         //public void AuthenticateTest()
         //{
-          
-        //    var returnId = _userServices.Authenticate(CorrectUserName,CorrectPassword);
+
+        //    var returnId = _userServices.Authenticate(CorrectUserName, CorrectPassword);
         //    var firstOrDefault = _users.Where(u => u.UserName == CorrectUserName).FirstOrDefault(u => u.Password == CorrectPassword);
         //    if (firstOrDefault != null)
         //        Assert.That(returnId, Is.EqualTo(firstOrDefault.UserId));

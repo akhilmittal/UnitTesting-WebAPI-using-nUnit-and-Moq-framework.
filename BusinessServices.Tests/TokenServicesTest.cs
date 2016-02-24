@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Configuration;
 using System.Linq;
-using System.Linq.Expressions;
-using System.Text;
 using DataModel;
 using DataModel.GenericRepository;
 using DataModel.UnitOfWork;
@@ -133,7 +131,7 @@ namespace BusinessServices.Tests
         [Test]
         public void GenerateTokenByUserIdTest()
         {
-            var userId = Convert.ToInt32(ConfigurationManager.AppSettings["UserId"]);
+            const int userId = 1;
             var maxTokenIdBeforeAdd = _tokens.Max(a => a.TokenId);
             var tokenEntity = _tokenServices.GenerateToken(userId);
             var newTokenDataModel = new Token()
@@ -145,10 +143,11 @@ namespace BusinessServices.Tests
                                             UserId = tokenEntity.UserId
                                         };
             AssertObjects.PropertyValuesAreEquals(newTokenDataModel, _tokens.Last());
+
         }
 
         /// <summary>
-        /// Generate token test
+        /// Validate token test
         /// </summary>
         [Test]
         public void ValidateTokenWithRightAuthToken()

@@ -1,4 +1,3 @@
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.Net4.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.dll
@@ -19,7 +18,6 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Te
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\TestsHelper.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.xml
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.Net4.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\EntityFramework.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Moq.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.xml

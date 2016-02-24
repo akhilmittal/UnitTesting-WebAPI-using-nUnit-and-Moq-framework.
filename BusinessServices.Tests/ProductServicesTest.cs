@@ -50,12 +50,14 @@ namespace BusinessServices.Tests
         [SetUp]
         public void ReInitializeTest()
         {
+            _products = SetUpProducts();
             _dbEntities = new Mock<WebApiDbEntities>().Object;
             _productRepository = SetUpProductRepository();
             var unitOfWork = new Mock<IUnitOfWork>();
             unitOfWork.SetupGet(s => s.ProductRepository).Returns(_productRepository);
             _unitOfWork = unitOfWork.Object;
             _productService = new ProductServices(_unitOfWork);
+            
         }
 
         #endregion
@@ -133,14 +135,30 @@ namespace BusinessServices.Tests
         public void GetAllProductsTest()
         {
             var products = _productService.GetAllProducts();
-            var productList =
-                products.Select(
-                    productEntity =>
-                    new Product {ProductId = productEntity.ProductId, ProductName = productEntity.ProductName}).ToList();
-            var comparer = new ProductComparer();
-            CollectionAssert.AreEqual(
-                productList.OrderBy(product => product, comparer),
-                _products.OrderBy(product => product, comparer), comparer);
+            if (products != null)
+            {
+                var productList =
+                    products.Select(
+                        productEntity =>
+                        new Product {ProductId = productEntity.ProductId, ProductName = productEntity.ProductName}).
+                        ToList();
+                var comparer = new ProductComparer();
+                CollectionAssert.AreEqual(
+                    productList.OrderBy(product => product, comparer),
+                    _products.OrderBy(product => product, comparer), comparer);
+            }
+        }
+
+        /// <summary>
+        /// Service should return null
+        /// </summary>
+        [Test]
+        public void GetAllProductsTestForNull()
+        {
+            _products.Clear();
+            var products = _productService.GetAllProducts();
+            Assert.Null(products);
+            SetUpProducts();
         }
 
         /// <summary>
@@ -157,6 +175,16 @@ namespace BusinessServices.Tests
                 AssertObjects.PropertyValuesAreEquals(productModel,
                                                       _products.Find(a => a.ProductName.Contains("Mobile")));
             }
+        }
+
+        /// <summary>
+        /// Service should return null
+        /// </summary>
+        [Test]
+        public void GetProductByWrongIdTest()
+        {
+            var product = _productService.GetProductById(0);
+            Assert.Null(product);
         }
 
         /// <summary>
@@ -190,6 +218,7 @@ namespace BusinessServices.Tests
                                      {ProductName = firstProduct.ProductName, ProductId = firstProduct.ProductId};
             _productService.UpdateProduct(firstProduct.ProductId, updatedProduct);
             Assert.That(firstProduct.ProductId, Is.EqualTo(1)); // hasn't changed
+            Assert.That(firstProduct.ProductName, Is.EqualTo("Laptop updated")); // Product name changed
         }
 
         /// <summary>
@@ -222,6 +251,7 @@ namespace BusinessServices.Tests
             _productRepository = null;
             if (_dbEntities != null)
                 _dbEntities.Dispose();
+            _products = null;
         }
 
         #endregion
