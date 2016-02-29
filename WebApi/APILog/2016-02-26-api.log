@@ -1,0 +1,178 @@
+2016-02-26 23:12:36.6289|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:12:41.8292|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: fc171725-8a06-4a8b-bc12-24e6f1d89c1a
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:15:40.6995|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: fc171725-8a06-4a8b-bc12-24e6f1d89c1a
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The number of primary key values passed must match number of primary key values defined on the entity.
+Parameter name: keyValues
+
+
+2016-02-26 23:20:44.3848|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:20:48.3041|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: d22e40e9-6a80-4c79-8caa-6b7042939d3b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:20:48.3251|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: d22e40e9-6a80-4c79-8caa-6b7042939d3b
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The number of primary key values passed must match number of primary key values defined on the entity.
+Parameter name: keyValues
+
+
+2016-02-26 23:23:33.9165|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:23:36.9057|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 739c9517-55ac-481a-bc22-cd9ab5345c7e
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:23:36.9227|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 739c9517-55ac-481a-bc22-cd9ab5345c7e
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The number of primary key values passed must match number of primary key values defined on the entity.
+Parameter name: keyValues
+
+
+2016-02-26 23:24:29.8707|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 739c9517-55ac-481a-bc22-cd9ab5345c7e
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:24:39.1723|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 739c9517-55ac-481a-bc22-cd9ab5345c7e
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The number of primary key values passed must match number of primary key values defined on the entity.
+Parameter name: keyValues
+
+
+2016-02-26 23:26:44.0914|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:26:47.5266|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 3605af49-f6cc-4800-8ce9-ece6319cd2cf
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:27:23.9517|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 3605af49-f6cc-4800-8ce9-ece6319cd2cf
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: The number of primary key values passed must match number of primary key values defined on the entity.
+Parameter name: keyValues
+
+
+2016-02-26 23:34:03.4095|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:34:06.3837|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 4264a876-e4ea-4fd1-b679-ef9bad46d5c9
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:34:39.7346|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:34:39.8136|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 4b567b65-cffb-4be4-ab6c-c241e24c4a27
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:35:20.6140|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:35:20.8480|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 9614d635-1fee-4918-b326-02eda1d8e326
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:47:47.9397|INFO|WebApi.Helpers.NLogger|JSON
+Method: POST
+URL: http://localhost:50875/login
+Controller : WebApi.Controllers.AuthenticateController
+Action : Authenticate
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2016-02-26 23:51:34.8747|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts/
+Token: 4bffc06f-d8b1-4eda-b4e6-df9568dd53b1
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+

@@ -1,6 +1,7 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\obj\Debug\ApiController.Tests.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\ApiController.Tests.dll.config
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\ApiController.Tests.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\ApiController.Tests.pdb
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\ApiController.Tests.dll.config
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\BusinessEntities.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\BusinessServices.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\DataModel.dll
@@ -33,6 +34,7 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\WebApi.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\EntityFramework.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\Moq.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\Newtonsoft.Json.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\nunit.framework.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\System.Net.Http.Formatting.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\Resolver.pdb
@@ -40,6 +42,5 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\AutoMapper.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\NLog.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\NLog.xml
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\obj\Debug\ApiController.Tests.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\obj\Debug\ApiController.Tests.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\obj\Debug\ApiController.Tests.pdb

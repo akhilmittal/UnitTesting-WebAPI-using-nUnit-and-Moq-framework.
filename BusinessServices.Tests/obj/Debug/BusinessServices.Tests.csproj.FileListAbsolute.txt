@@ -1,3 +1,5 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.csprojResolveAssemblyReference.cache
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll.config
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\AutoMapper.dll
@@ -8,7 +10,6 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Te
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Moq.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\TestsHelper.dll
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll.config
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Resolver.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.Unity.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
@@ -22,6 +23,5 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Te
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Moq.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\nunit.framework.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\Resolver.pdb
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.pdb

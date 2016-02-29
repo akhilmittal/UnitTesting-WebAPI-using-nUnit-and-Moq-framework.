@@ -5,14 +5,9 @@
   <ExcludeCategories>false</ExcludeCategories>
   <Nodes>
     <Node UniqueName="[0-1000]D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebAPI.nunit" Expanded="true" />
-    <Node UniqueName="[0-1011]D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll" Expanded="true" />
-    <Node UniqueName="[0-1012]BusinessServices" Expanded="true" />
-    <Node UniqueName="[0-1013]BusinessServices.Tests" Expanded="true" />
-    <Node UniqueName="[0-1001]BusinessServices.Tests.ProductServicesTest" Expanded="true" />
-    <Node UniqueName="[0-1007]BusinessServices.Tests.TokenServicesTest" Expanded="true" />
-    <Node UniqueName="[0-1024]D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\ApiController.Tests.dll" Expanded="true" />
-    <Node UniqueName="[0-1025]ApiController" Expanded="true" />
-    <Node UniqueName="[0-1026]ApiController.Tests" Expanded="true" />
-    <Node UniqueName="[0-1014]ApiController.Tests.ProductControllerTest" Expanded="true" />
+    <Node UniqueName="[0-1012]D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\ApiController.Tests\bin\Debug\ApiController.Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1013]ApiController" Expanded="true" />
+    <Node UniqueName="[0-1014]ApiController.Tests" Expanded="true" />
+    <Node UniqueName="[0-1001]ApiController.Tests.ProductControllerTest" Expanded="true" />
   </Nodes>
 </VisualState>

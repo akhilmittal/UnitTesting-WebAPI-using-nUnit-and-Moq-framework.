@@ -2,14 +2,14 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Deb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\TestsHelper.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\DataModel.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\nunit.framework.dll
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\Resolver.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\Resolver.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\Microsoft.Practices.Unity.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\DataModel.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\nunit.framework.xml
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\Resolver.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\bin\Debug\Resolver.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\obj\Debug\TestsHelper.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\obj\Debug\TestsHelper.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\TestsHelper\obj\Debug\TestsHelper.pdb

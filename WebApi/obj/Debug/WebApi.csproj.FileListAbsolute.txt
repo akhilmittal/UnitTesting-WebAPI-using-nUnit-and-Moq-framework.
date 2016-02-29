@@ -421,12 +421,14 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\bin\A
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\obj\Debug\WebApi.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\6\sourcecode\WebApi\WebApi\WebApi\obj\Debug\WebApi.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\WebApi.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\WebApi.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessEntities.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessServices.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\EntityFramework.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\NLog.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Resolver.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.dll
@@ -445,6 +447,7 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\AutoMapp
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessEntities.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\BusinessServices.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Resolver.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\Newtonsoft.Json.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\NLog.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\NLog.xml
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
@@ -463,6 +466,5 @@ D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\System.N
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\DataModel.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\AutoMapper.pdb
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\bin\AutoMapper.xml
-D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.dll
 D:\AkhilMittal\Articles and Blogs\WebAPI\7\sourcecode\WebApi\WebApi\obj\Debug\WebApi.pdb

@@ -79,6 +79,25 @@ namespace BusinessServices
         }
 
         /// <summary>
+        /// Method to validate token against expiry and existence in database.
+        /// </summary>
+        /// <param name="authToken"></param>
+        /// <returns></returns>
+        public bool ValidateAuthToken(string authToken)
+        {
+            var token = _unitOfWork.TokenRepository.GetSingle(t=>t.AuthToken==authToken);
+            if (token != null && !(DateTime.Now > token.ExpiresOn))
+            {
+                token.ExpiresOn = token.ExpiresOn.AddSeconds(
+                                              Convert.ToDouble(ConfigurationManager.AppSettings["AuthTokenExpiry"]));
+                _unitOfWork.TokenRepository.Update(token);
+                _unitOfWork.Save();
+                return true;
+            }
+            return false;
+        }
+
+        /// <summary>
         /// Method to kill the provided token id.
         /// </summary>
         /// <param name="tokenId">true for successful delete</param>

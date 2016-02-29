@@ -22,7 +22,7 @@ namespace WebApi.ActionFilters
                 var tokenValue = filterContext.Request.Headers.GetValues(Token).First();
 
                 // Validate Token
-                if (provider != null && !provider.ValidateToken(tokenValue))
+                if (provider != null && !provider.ValidateAuthToken(tokenValue))
                 {
                     var responseMessage = new HttpResponseMessage(HttpStatusCode.Unauthorized) { ReasonPhrase = "Invalid Request" };
                     filterContext.Response = responseMessage;

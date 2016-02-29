@@ -1,7 +1,6 @@
 ﻿#region Using namespaces
 using System;
 using System.Collections.Generic;
-using System.Configuration;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -14,8 +13,8 @@ using DataModel;
 using DataModel.GenericRepository;
 using DataModel.UnitOfWork;
 using Moq;
-using Newtonsoft.Json;
 using NUnit.Framework;
+using Newtonsoft.Json;
 using TestsHelper;
 using WebApi.Controllers;
 using WebApi.ErrorHelper; 
@@ -263,7 +262,7 @@ namespace ApiController.Tests
         /// Get product by wrong Id
         /// </summary>
         [Test]
-       // [ExpectedException("WebApi.ErrorHelper.ApiDataException")]
+        //[ExpectedException("WebApi.ErrorHelper.ApiDataException")]
         public void GetProductByWrongIdTest()
         {
             var productController = new ProductController(_productService)
@@ -426,6 +425,37 @@ namespace ApiController.Tests
       
         #endregion
 
+        #region Integration Test
+
+        /// <summary>
+        /// Get all products test
+        /// </summary>
+        [Test]
+        public void GetAllProductsIntegrationTest()
+        {
+            #region To be written inside Setup method specifically for integration tests
+            var client = new HttpClient { BaseAddress = new Uri(ServiceBaseURL) };
+            client.DefaultRequestHeaders.Add("Authorization", "Basic YWtoaWw6YWtoaWw=");
+            MediaTypeFormatter jsonFormatter = new JsonMediaTypeFormatter();
+            _response = client.PostAsync("login", null).Result;
+
+            if (_response != null && _response.Headers != null && _response.Headers.Contains("Token") && _response.Headers.GetValues("Token") != null)
+            {
+                client.DefaultRequestHeaders.Clear();
+                _token = ((string[])(_response.Headers.GetValues("Token")))[0];
+                client.DefaultRequestHeaders.Add("Token", _token);
+            } 
+            #endregion
+
+            _response = client.GetAsync("v1/Products/Product/allproducts/").Result;
+            var responseResult =
+                JsonConvert.DeserializeObject<List<ProductEntity>>(_response.Content.ReadAsStringAsync().Result);
+            Assert.AreEqual(_response.StatusCode, HttpStatusCode.OK);
+            Assert.AreEqual(responseResult.Any(), true);
+        }
+
+        #endregion
+
         #region Tear Down
         /// <summary>
         /// Tears down each test data
@@ -450,6 +480,12 @@ namespace ApiController.Tests
         public void DisposeAllObjects()
         {
             _tokenService = null;
+            _productService = null;
+            _unitOfWork = null;
+            _tokenRepository = null;
+            _productRepository = null;
+            _tokens = null;
+            _products = null;
             if (_response != null)
                 _response.Dispose();
             if (_client != null)

@@ -25,6 +25,13 @@ namespace BusinessServices
         bool ValidateToken(string tokenId);
 
         /// <summary>
+        /// Validate auth token
+        /// </summary>
+        /// <param name="authToken"></param>
+        /// <returns></returns>
+        bool ValidateAuthToken(string authToken);
+
+        /// <summary>
         /// Method to kill the provided token id.
         /// </summary>
         /// <param name="tokenId"></param>
